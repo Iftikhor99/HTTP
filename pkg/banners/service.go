@@ -16,7 +16,7 @@ type Service struct {
 // NewService co3qaét cepsuc.
 func NewService() *Service {
 	return &Service{items: make([]*Banner, 0)}
-
+	//new comment
 }
 
 // Banner npenctasnaet codoi GaHHep.
